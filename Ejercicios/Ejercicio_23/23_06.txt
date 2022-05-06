@@ -1,0 +1,7 @@
+X        
+XO       
+XOX      
+XOXO     
+XOXOX    
+XOXOXO   
+XOXOXOX  
